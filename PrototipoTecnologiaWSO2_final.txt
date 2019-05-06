@@ -1,0 +1,4 @@
+URL PLATAFORMA: https://wso2.com/api-management/cloud/
+USUARIO: laura.guillen@edu.uah.es
+CONTRASEÑA:Pinsa%123
+CÓDIGO FUENTE API DE EJEMPLO: http://ws.cdyne.com/phoneverify/phoneverify.asmx?op=CheckPhoneNumber
